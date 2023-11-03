@@ -1,6 +1,6 @@
 Item Name,Category,Description,Price,Type
 Spaghetti Bolognese,Pasta,Classic Italian pasta with meat sauce,12.99,Main Dish
-Customizable Pizza,Pizza,Fresh tomatoes + mozzarella + basil,10.99,Main Dish
+Customizable Pizza,Pizza,Choose your own toppings and pizza size,10.99,Main Dish
 Caesar Salad,Salad,Romaine lettuce + croutons + Caesar dressing,8.99,Salad
 Grilled Salmon,Seafood,Fresh salmon fillet with lemon butter sauce,16.99,Main Dish
 Chicken Alfredo,Pasta,Grilled chicken with creamy Alfredo sauce,14.99,Main Dish
@@ -9,13 +9,12 @@ Vegetable Stir Fry,Vegetarian,Fresh mixed vegetables with soy sauce,10.99,Main D
 Chocolate Brownie,Dessert,Decadent chocolate brownie with vanilla ice cream,6.99,Dessert
 Shrimp Scampi,Seafood,Shrimp sautéed in garlic and white wine sauce + served with linguine,18.99,Main Dish
 Caprese Salad,Salad,Fresh tomatoes + mozzarella + basil + balsamic glaze,9.99,Salad
-BBQ Pulled Pork Sandwich,Sandwich,Slow-cooked pulled pork with BBQ sauce + coleslaw,12.99,Main Dish
 Mushroom Risotto,Main Dish,Arborio rice with mushrooms + Parmesan cheese + truffle oil,15.99,Main Dish
 Spinach and Feta Stuffed Chicken,Main Dish,Chicken breast stuffed with spinach and feta + served with roasted potatoes,16.99,Main Dish
 Vegetable Curry,Vegetarian,Mixed vegetables in a rich curry sauce + served with basmati rice,13.99,Main Dish
 Tiramisu,Dessert,Classic Italian dessert with coffee-soaked okra and mascarpone,7.99,Dessert
 Pho Noodle Soup,Vietnamese,Rice noodles + beef/tofu + in a fragrant broth with herbs and lime,11.99,Main Dish
-Beef Stir Fry,Asian,Strips of beef with mixed vegetables in a savory sauce + served with steamed rice,14.99,Main Dish
+Chicken Stir Fry,Asian,Strips of chicken with mixed vegetables in a savory sauce + served with steamed rice,14.99,Main Dish
 Margherita Flatbread,Appetizer,Flatbread with fresh tomatoes + mozzarella + basil + olive oil,8.99,Appetizer
 Lobster Bisque,Soup,Creamy lobster soup with brandy and sherry,9.99,Soup
 Avocado Toast,Brunch,Sliced avocado + poached egg + and cherry tomatoes on whole grain toast,10.99,Main Dish
