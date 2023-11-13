@@ -1,0 +1,73 @@
+/* styles.css */
+
+body {
+  background-color: #772828;
+  font-family: 'Roboto', sans-serif; /* Use your preferred font */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #3498db; /* Set text color to blue */
+}
+
+.container {
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #3498db; /* Blue button color */
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-link {
+  color: #3498db; /* Blue link color */
+  text-decoration: none;
+}
+
+/* Additional styles for Signup */
+.signup-container {
+  background-color: #f5f5f5; /* Light gray background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.signup-label {
+  display: block;
+  font-size: 18px; /* Increased font size for Signup labels */
+  margin-bottom: 10px;
+}
