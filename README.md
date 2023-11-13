@@ -1,5 +1,8 @@
-# webtech_project
-reataurant management project using react.js, node.js and mongoDB (kill me)
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-click [here](https://www.canva.com/design/DAFxw2kezWY/s86GwpuCKUl7oret8S6C-A/edit?utm_content=DAFxw2kezWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to see our wireframe for the project
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
